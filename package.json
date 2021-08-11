@@ -1,5 +1,5 @@
 {
-  "name": "@k3cman/eslint-config-base",
+  "name": "eslint-config-k3cman-base",
   "version": "1.0.0",
   "description": "Base configuration for Typescript eslint",
   "main": "index.js",
